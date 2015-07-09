@@ -7,8 +7,8 @@ Add sources to your project from Netbeans Version
 
 Example:
 
-The following Linux shell command executes the 'Java_API' strategy that was previously compiled. The standard output provides the stratgey initial status.
-
+The following Linux shell command executes the 'Java_API' strategy that was previously compiled. The standard output provides the strategy initial status.
+```
 run:
 Attemping to connect to localhost/127.0.0.1 port 8766
 Initializing strategy Id:53
@@ -64,3 +64,4 @@ Trade sent, type Limit Id:2 Number of trades Alive:1
 Trade modified.
 Trade cancell sent:2
 BUILD SUCCESSFUL (total time: 31 seconds)
+```
