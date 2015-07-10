@@ -1,15 +1,15 @@
-# Java_API
+## Java_API
 
-Requirements:
-You will need the latest Javabeans IDE and Java runtime Environment, you can download these from:
-http://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-142931.html
+### Requirements:
+You will need the latest Javabeans IDE and Java runtime Environment, you can download these from
+[Oracle's Java SE Downloads page](http://www.oracle.com/technetwork/java/javase/downloads): 
 
-Instructions:
+### Instructions:
 
 Pull repository contents
 Add sources to your project from Netbeans Version
 
-Example:
+### Example:
 
 The following Linux shell command executes the 'Java_API' strategy that was previously compiled. The standard output provides the strategy initial status.
 ```
