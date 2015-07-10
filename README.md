@@ -1,5 +1,9 @@
 # Java_API
 
+Requirements:
+You will need the latest Javabeans IDE and Java runtime Environment, you can download these from:
+http://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-142931.html
+
 Instructions:
 
 Pull repository contents
