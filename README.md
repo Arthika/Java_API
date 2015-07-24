@@ -1,13 +1,24 @@
 ## Java_API
 
 ### Requirements:
-You will need the latest Javabeans IDE and Java runtime Environment, you can download these from
+You will need the latest Netbeans IDE or Eclipse IDE and Java runtime Environment, you can download these from
 [Oracle's Java SE Downloads page](http://www.oracle.com/technetwork/java/javase/downloads): 
+[Install Netbeans](https://netbeans.org/community/releases/80/install.html)
+[Install Eclipse](http://wiki.eclipse.org/Eclipse/Installation)
 
 ### Instructions:
 
-Pull repository contents
-Add sources to your project from Netbeans Version
+Pull repository contents.
+Create a new Java project in your IDE.
+Add JAR files to libraries folder of your project.
+Include examples of the most typical operation with REST API.
+	- Get Configuration
+	- Get Accounting
+	- Get Exposures
+	- Get a FBA Prices
+	- Send a market trade
+	- Send a limit trade
+	- Replace and cancel a limit trade
 
 ### Example:
 
